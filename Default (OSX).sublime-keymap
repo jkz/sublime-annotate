@@ -1,0 +1,15 @@
+[
+    { "keys": ["super+shift+6"], "command": "annotate", "args": {"tag": "setup"}},
+    { "keys": ["super+shift+7"], "command": "annotate", "args": {"tag": "exceptional"}},
+    { "keys": ["super+shift+8"], "command": "annotate", "args": {"tag": "critical"}},
+    { "keys": ["super+shift+9"], "command": "annotate", "args": {"tag": "untested"}},
+    { "keys": ["super+shift+0"], "command": "annotate"},
+
+    { "keys": ["ctrl+shift+6"], "command": "toggle_annotated", "args": {"tag": "setup"}},
+    { "keys": ["ctrl+shift+7"], "command": "toggle_annotated", "args": {"tag": "exceptional"}},
+    { "keys": ["ctrl+shift+8"], "command": "toggle_annotated", "args": {"tag": "critical"}},
+    { "keys": ["ctrl+shift+9"], "command": "toggle_annotated", "args": {"tag": "untested"}},
+    { "keys": ["ctrl+shift+0"], "command": "toggle_annotated"},
+
+    { "keys": ["ctrl+shift+minus"], "command": "clear_annotations"}
+]

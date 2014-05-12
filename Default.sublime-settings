@@ -1,0 +1,7 @@
+{
+    "annotate_scope_default": "variable",
+    "annotate_scope_init": "storage",
+    "annotate_scope_error": "invalid",
+    "annotate_scope_critical": "constant",
+    "annotate_scope_boilerplate": "meta"
+}
